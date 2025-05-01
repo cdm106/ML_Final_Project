@@ -22,4 +22,4 @@ The worker uses tools to verify each step, in this case the program utilizes an 
 
 The solver integrates all of the subtasks and corresponding evidence to generate a conclusion. In this notebook, the solver takes the database tool response along with the original natural language question to generate a concluding natural language answer to the users questions.
 
-This is a companion to the survey report: The Interplay of Reasoning and Agentic Artificial Intelligence: An Introduction Survey, which is also uploaded to the GitHub Repository.
+This is a companion to the survey report: *The Interplay of Reasoning and Agentic Artificial Intelligence: An Introduction Survey*, which is also uploaded to the GitHub Repository with the file name of `CAP6606_Cmolek_ReasoningAgenticAI_Survey.pdf`.
